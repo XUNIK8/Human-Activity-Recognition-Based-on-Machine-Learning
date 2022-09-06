@@ -1,0 +1,2 @@
+- 本Python代码为部署在服务器上的代码，汇集了数据处理、特征提取、运行模型、返回结果等所有功能，最终只需用微信小程序与此代码进行数据交互。
+- This Python code is deployed on the server and brings together all the functions of data processing, feature extraction, running models, returning results, etc. Eventually, only the WeChat applet is used to interact with this code for data.
