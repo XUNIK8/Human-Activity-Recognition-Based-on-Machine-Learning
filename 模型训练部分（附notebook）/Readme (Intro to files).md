@@ -1,0 +1,2 @@
+- 此文件包含模型训练代码，文件名中间标注了系统（Android/IOS）以及分类准确率（数字）。
+- This file contains the model training code with the system (Android/IOS) and the classification accuracy (numbers) marked in the middle of the file name.
